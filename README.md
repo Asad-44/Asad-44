@@ -1,6 +1,6 @@
 # Muhammad Asad Shafiq
 
-**Aspiring Network Security / Cybersecurity Engineer**
+**Aspiring Cybersecurity / Network security Engineer**
 
 Software Engineering student building a strong foundation in network security through hands-on labs, secure application development, and continuous self-directed learning. Focused on a long-term career defending networks and infrastructure.
 
