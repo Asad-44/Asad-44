@@ -48,4 +48,4 @@ Full-stack platform with JWT authentication, role-based access control, and a no
 ---
 
 ### Currently Building
-🔒 A home lab for active-defense security practice — attack simulation, IDS deployment with Suricata, and Python-based threat log parsing. [View the repo →](https://github.com/Asad-44)
+🔒 A home lab for active-defense security practice — attack simulation, IDS deployment with Suricata, and Python-based threat log parsing. [View the repo →](https://github.com/Asad-44/home-lab-cyber.git)
