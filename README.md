@@ -32,11 +32,11 @@ Software Engineering student building a strong foundation in network security th
 
 ### Featured Projects
 
-**[LockBox](https://github.com/Asad-44) — Zero-Knowledge E2EE File Sharing Platform**
+**[LockBox](https://lockbox-5it9.onrender.com) — Zero-Knowledge E2EE File Sharing Platform**
 Client-side AES-256-GCM encryption via the Web Crypto API, PBKDF2 key derivation (200,000 iterations), and burn-on-read file sharing. Servers store only ciphertext — zero server-side key exposure.
 `Node.js` `Express.js` `Web Crypto API` `Redis`
 
-**[RideRevenue Tracker](https://github.com/Asad-44) — Fleet Management System**
+**[RideRevenue Tracker](https://github.com/Asad-44/riderevenue-backend.git) — Fleet Management System**
 Full-stack platform with JWT authentication, role-based access control, and a normalized MySQL schema. Hardened against SQL injection with bcrypt password hashing and strict input validation.
 `Node.js` `Express.js` `MySQL` `REST API`
 
