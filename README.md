@@ -31,8 +31,8 @@ Software Engineering student building a strong foundation in network security th
 ---
 
 ### Certifications
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_CREDLY_LINK_HERE)
 
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/badges/0ec7030d-f982-4343-9b5f-371387a7cb19/public_url)
 ---
 ### Featured Projects
 
