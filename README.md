@@ -11,7 +11,7 @@ Software Engineering student building a strong foundation in network security th
 ---
 
 ### Areas of Focus
-`Network Security` · `Cybersecurity` · `Cloud Security` · `Secure Software Engineering`
+`Security Engineering` · `Network Security` · `Cybersecurity` · `Cloud Security` · `Secure Software Engineering`
 
 ### Technical Skills
 
