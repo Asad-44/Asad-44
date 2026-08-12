@@ -30,6 +30,10 @@ Software Engineering student building a strong foundation in network security th
 
 ---
 
+### Certifications
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_CREDLY_LINK_HERE)
+
+---
 ### Featured Projects
 
 **[LockBox](https://lockbox-5it9.onrender.com) — Zero-Knowledge E2EE File Sharing Platform**
