@@ -6,7 +6,7 @@
 
 Software Engineering student building a strong foundation in network security through hands-on labs, secure application development, and continuous self-directed learning.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Network+Security+%C2%B7+DFIR+%C2%B7+Cloud+Security;Python+%C2%B7+Linux+%C2%B7+C++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Network+Security+%C2%B7+DFIR+%C2%B7+Cloud+Security;Python+%C2%B7+Linux+%C2%B7+C%2B%2B)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asad-shafiq)
 [![Profile Views](https://komarev.com/ghpvc/?username=Asad-44&abbreviated=true&color=58A6FF)](https://github.com/Asad-44)
