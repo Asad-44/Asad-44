@@ -6,7 +6,7 @@
 
 Software Engineering student building a strong foundation in network security through hands-on labs, secure application development, and continuous self-directed learning.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Network+Security+%C2%B7+DFIR+%C2%B7+Cloud+Security;Python+%C2%B7+Linux+%C2%B7+C%2B%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Network+Security+%C2%B7+SOC+%C2%B7+Defensive+Security;Python+%C2%B7+Linux+%C2%B7+C%2B%2B)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asad-shafiq)
 [![Profile Views](https://komarev.com/ghpvc/?username=Asad-44&abbreviated=true&color=58A6FF)](https://github.com/Asad-44)
@@ -58,9 +58,9 @@ Full-stack fleet management system with JWT authentication, role-based access co
 ### Security & Networking
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-05122A?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-05122A?style=for-the-badge&logo=linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-05122A?style=for-the-badge&logo=nmap&logoColor=FF6600)
 ![Suricata](https://img.shields.io/badge/Suricata-05122A?style=for-the-badge&logo=suricata&logoColor=D7263D)
-![Tcpdump](https://img.shields.io/badge/Tcpdump-05122A?style=for-the-badge&logo=linux&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-05122A?style=for-the-badge&logo=hydra&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-05122A?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
@@ -71,7 +71,7 @@ Full-stack fleet management system with JWT authentication, role-based access co
 ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Web Technologies](https://img.shields.io/badge/Web_Technologies-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Node.js-05122A?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ### Core CS
 
