@@ -21,12 +21,28 @@ Software Engineering student building a strong foundation in network security th
 
 - **Current:** Software Engineering student at **COMSATS University Islamabad**, Lahore Campus
 - **Interests:** Systems Security, Network Engineering, cloud security, DFIR, SOC, and secure application development
-- **Building:** A home cybersecurity lab covering attack simulation, IDS, and log automation
+- **Built:** A 12-week home SOC/SOAR lab covering attack simulation, IDS, threat-intel enrichment, AI-assisted triage, and automated response
 - **Goal:** Long-term career defending networks and infrastructure
 
 ---
 
 ## Featured Projects
+
+<table>
+<tr>
+<td valign="top">
+
+### [Active-Defense Home Security Lab](https://github.com/Asad-44/home-lab-cyber)
+A 12-week SOAR-style lab: Suricata alerts stream over SSH to a FastAPI orchestrator, get enriched with AbuseIPDB, are classified against MITRE ATT&CK with Gemini, and are blocked via Netmiko/iptables after analyst approval. A live Streamlit console ties it together.
+
+![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat-square&logo=fastapi&logoColor=009688)
+![Streamlit](https://img.shields.io/badge/Streamlit-05122A?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Suricata](https://img.shields.io/badge/Suricata-05122A?style=flat-square&logo=suricata&logoColor=D7263D)
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -64,7 +80,7 @@ Full-stack fleet management system with JWT authentication, role-based access co
 ![Hydra](https://img.shields.io/badge/Hydra-05122A?style=for-the-badge&logo=hydra&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-05122A?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
-`OSI Model` `TCP/IP` `Subnetting` `DNS` `HTTP/S` `Network Protocols`
+`OSI Model` `TCP/IP` `Subnetting` `DNS` `HTTP/S` `Network Protocols` `MITRE ATT&CK` `SOAR` `iptables` `IDS/IPS`
 
 ### Programming
 
@@ -72,6 +88,8 @@ Full-stack fleet management system with JWT authentication, role-based access co
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Web Technologies](https://img.shields.io/badge/Web_Technologies-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Node.js-05122A?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+`FastAPI` `Streamlit` `Netmiko` `Pydantic` `REST APIs`
 
 ### Core CS
 
@@ -99,8 +117,8 @@ Full-stack fleet management system with JWT authentication, role-based access co
 
 ---
 
-## Currently Building
+## Currently Exploring
 
-🔒 A home cybersecurity lab for active-defense practice — attack simulation, IDS deployment with Suricata, and Python-based threat log parsing. [View the repo →](https://github.com/Asad-44/home-lab-cyber.git)
+🔍 Email-borne threats: reading research on content disarm and reconstruction (CDR) and machine-learning detection of malicious VBA macros in document attachments.
 
 ---
