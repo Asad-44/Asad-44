@@ -20,7 +20,7 @@ Software Engineering student building a strong foundation in network security th
 ## About
 
 - **Current:** Software Engineering student at **COMSATS University Islamabad**, Lahore Campus
-- **Interests:** Systems Security, Network Engineering, cloud security, DFIR, SOC, and secure application development
+- **Interests:** Systems Security, Network Engineering, DFIR, SOC, and secure application development
 - **Built:** A 12-week home SOC/SOAR lab covering attack simulation, IDS, threat-intel enrichment, AI-assisted triage, and automated response
 - **Goal:** Long-term career defending networks and infrastructure
 
